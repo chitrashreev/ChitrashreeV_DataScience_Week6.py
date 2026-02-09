@@ -1,0 +1,5 @@
+Conclusion
+
+In this project, K-Means clustering was successfully implemented using Python to analyze an unlabelled dataset. After preprocessing the data and selecting relevant features, the optimal number of clusters was determined using the Elbow Method. The K-Means algorithm was then applied to segment the customers into meaningful clusters based on their annual income and spending score.
+
+The resulting clusters provide valuable insights into different customer groups with similar purchasing behavior. This demonstrates how unsupervised learning techniques like K-Means can be effectively used for exploratory data analysis and real-world applications such as customer segmentation. Overall, the project highlights the importance of clustering in discovering hidden patterns within data and shows how Python libraries make the implementation of machine learning algorithms efficient and accessible.
